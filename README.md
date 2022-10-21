@@ -1,6 +1,8 @@
 # R snippets
 
 <iframe width='100%' height='300' src='https://rdrr.io/snippets/embed/' frameborder='0'></iframe>
+<br><br>
+<iframe src='https://widgets.wp.com/likes/master.html?ver=202242#ver=202242' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
 
 [Email](mailto:chavezleobardo@hotmail.com) / [GIS Porfolio](https://chavezleobardo.wixsite.com/portfolio/) / [GitHub](https://github.com/geo-leo/)
 
