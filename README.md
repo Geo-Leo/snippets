@@ -1,6 +1,6 @@
-# Leobardo Chavez
+# R snippets
 
-_GIS Professional and data analyst based in the Greater Los Angeles Area_ <br>
+<iframe width='100%' height='300' src='https://rdrr.io/snippets/embed/' frameborder='0'></iframe>
 
 [Email](mailto:chavezleobardo@hotmail.com) / [GIS Porfolio](https://chavezleobardo.wixsite.com/portfolio/) / [GitHub](https://github.com/geo-leo/)
 
