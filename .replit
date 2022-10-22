@@ -1,6 +1,4 @@
-run = "R -s -f main.r"
-
-entrypoint = "main.r"
+run = "run"
 
 onBoot = """
 [ -d "~/.config/R" ] || mkdir -p ~/.config/R
