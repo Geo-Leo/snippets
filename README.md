@@ -2,14 +2,8 @@
 
 <iframe width='100%' height='450' src='https://rdrr.io/snippets/embed/' frameborder='0'></iframe>
 
-
-# trinket for Python
-
-<iframe src="https://trinket.io/embed/python/3d8d7ce66b" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
-
-## Snippets and trinket are great for developing code for a specific task
-**General steps to develop code using Snippets/ trinket**<br>
+## Snippets is great for developing code for a specific task
+**General steps to develop code using Snippets**<br>
 1. First, generate data to address the problem
 2. Second, conduct research and run code to find what works 
 3. Finally, implement the code developed into your project
