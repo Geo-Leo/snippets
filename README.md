@@ -10,9 +10,8 @@
   <br><br>
 
 **Example R script developed using R snippets** <br>
-https://github.com/Geo-Leo/snippets/blob/ee78fb64a96fe465ab0b90b6f7618f19b089d4b6/main.r#L4-L16
 [R script on Github](https://github.com/Geo-Leo/snippets/blob/ee78fb64a96fe465ab0b90b6f7618f19b089d4b6/main.r) <br>
-```python
+```r
 # generating test data
 x = c(1, 2, 3, 4, 5, 6, 7)
 y = c(8, 9, 10, 11, 12, 13, 14)
@@ -28,7 +27,7 @@ csv = data.frame(csv)
 print(csv, row.names=F)
 ```
 *Ouput:*
-```python
+```r
   x  y z
 1 1  8 A
 2 2  9 B
