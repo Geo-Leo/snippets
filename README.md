@@ -1,7 +1,7 @@
 # R snippets
 
 <iframe width='100%' height='450' src='https://rdrr.io/snippets/embed/' frameborder='0'></iframe>
-<br><br>
+<br>
 
 ## R snippets is great for developing code to for a specific task
 **For example: printing data in csv format?**<br>
