@@ -1,20 +1,21 @@
-# R snippets
+# Snippets for R
 
 <iframe width='100%' height='450' src='https://rdrr.io/snippets/embed/' frameborder='0'></iframe>
 
 
-# GDB Online
+# trinket for Python
 
-<script src="//onlinegdb.com/embed/js/mgkTys_uf?theme=dark"></script>
+<iframe src="https://trinket.io/embed/python/3d8d7ce66b" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-## Snippets is great for developing code for a specific task
-**General steps to develop code using snippets**<br>
+
+## Snippets and trinket are great for developing code for a specific task
+**General steps to develop code using Snippets/ trinket**<br>
 1. First, generate data to address the problem
 2. Second, conduct research and run code to find what works 
 3. Finally, implement the code developed into your project
   <br><br>
 
-**Example R script developed using R snippets** <br>
+**Example R script developed using Snippets** <br>
 ```r
 # generating data
 x = c(1, 2, 3, 4, 5, 6, 7)
