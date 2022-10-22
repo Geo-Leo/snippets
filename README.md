@@ -27,7 +27,7 @@ csv = data.frame(csv)
 print(csv, row.names=F)
 ```
 *Ouput:*
-```r
+```python
   x  y z
 1 1  8 A
 2 2  9 B
