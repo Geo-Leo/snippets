@@ -2,7 +2,11 @@
 
 <iframe width='100%' height='450' src='https://rdrr.io/snippets/embed/' frameborder='0'></iframe>
 
-## R snippets is great for developing code for a specific task
+# GDB Online
+
+<iframe width='100%' height='450' src="//onlinegdb.com/embed/js/s9QQW1zBE?theme=dark" frameborder='0'></iframe>
+
+## Snippets is great for developing code for a specific task
 **General steps to develop code using snippets**<br>
 1. First, generate data to address the problem
 2. Second, conduct research and run code to find what works 
@@ -44,7 +48,3 @@ print(csv, row.names=F)
  6,13,F
  7,14,G
  ```
-
-# GDB Online
-
-<script src="//onlinegdb.com/embed/js/s9QQW1zBE?theme=dark"></script>
