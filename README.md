@@ -5,8 +5,7 @@
 
 # GDB Online
 
-<script src="//onlinegdb.com/embed/js/s9QQW1zBE?theme=dark"></script>
-
+<script src="//onlinegdb.com/embed/js/mgkTys_uf?theme=dark"></script>
 
 ## Snippets is great for developing code for a specific task
 **General steps to develop code using snippets**<br>
