@@ -1,4 +1,5 @@
 # R snippets
+[View on website](https://geo-leo.github.io/snippets/) / [View on GitHub](https://github.com/Geo-Leo/snippets/)
 
 <iframe width='100%' height='450' src='https://rdrr.io/snippets/embed/' frameborder='0'></iframe>
 
@@ -10,7 +11,6 @@
   <br><br>
 
 **Example R script developed using R snippets** <br>
-[R script on Github](https://github.com/Geo-Leo/snippets/blob/ee78fb64a96fe465ab0b90b6f7618f19b089d4b6/main.r) <br>
 ```r
 # generating test data
 x = c(1, 2, 3, 4, 5, 6, 7)
