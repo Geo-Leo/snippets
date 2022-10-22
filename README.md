@@ -1,5 +1,4 @@
 # R snippets
-[View on website](https://geo-leo.github.io/snippets/)
 
 <iframe width='100%' height='450' src='https://rdrr.io/snippets/embed/' frameborder='0'></iframe>
 
