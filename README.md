@@ -11,3 +11,22 @@
 
 **Example R script developed using R snippets** <br>
 https://github.com/Geo-Leo/snippets/blob/ee78fb64a96fe465ab0b90b6f7618f19b089d4b6/main.r#L4-L16
+*Ouput:*
+```
+  x  y z
+1 1  8 A
+2 2  9 B
+3 3 10 C
+4 4 11 D
+5 5 12 E
+6 6 13 F
+7 7 14 G
+    csv
+  1,8,A
+  2,9,B
+ 3,10,C
+ 4,11,D
+ 5,12,E
+ 6,13,F
+ 7,14,G
+ ```
