@@ -1,22 +1,4 @@
-run = "run"
-
-onBoot = """
-[ -d "~/.config/R" ] || mkdir -p ~/.config/R
-"""
-
-[env]
-R_LIBS_USER = "~/.config/R"
-
-[packager]
-language = "rlang"
-
-[packager.features]
-packageSearch = true
-
-[gitHubImport]
-requiredFiles = [".replit", "replit.nix", ".Rprofile"]
+run = "cowsay Configure me!"
 
 [nix]
-
-[nix.channel]
-channel = "stable-22_05"
+channel = "stable-21_11"
