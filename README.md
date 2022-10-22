@@ -9,5 +9,8 @@
   - For example:
     - x = c(1, 2, 3, 4, 5, 6)
 2. Second, research online to find working code
-3. Finally, implement the code into the project
+  - For example:
+    - x = paste(x, collapse=",")
+    - print(x)  
+3. Finally, implement the snippet developed into the project
   <br><br>
