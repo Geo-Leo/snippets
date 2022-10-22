@@ -4,7 +4,7 @@
 
 # GDB Online
 
-<script src="//onlinegdb.com/embed/js/s9QQW1zBE?theme=dark" width='100%' height='450'></script>
+<script src="//onlinegdb.com/embed/js/s9QQW1zBE?theme=dark" width='450' height='450'></script>
 
 ## Snippets is great for developing code for a specific task
 **General steps to develop code using snippets**<br>
