@@ -10,7 +10,7 @@
   <br><br>
 
 **Example R script developed using R snippets** <br>
-https://github.com/Geo-Leo/snippets/blob/ee78fb64a96fe465ab0b90b6f7618f19b089d4b6/main.r#L4-L16
+https://github.com/Geo-Leo/snippets/blob/ee78fb64a96fe465ab0b90b6f7618f19b089d4b6/main.r#L4-L16 <br>
 *Ouput:*
 ```
   x  y z
