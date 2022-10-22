@@ -10,9 +10,10 @@
   <br><br>
 
 **Example R script developed using R snippets** <br>
+https://github.com/Geo-Leo/snippets/blob/ee78fb64a96fe465ab0b90b6f7618f19b089d4b6/main.r#L4-L16
 [R script on Github](https://github.com/Geo-Leo/snippets/blob/ee78fb64a96fe465ab0b90b6f7618f19b089d4b6/main.r#L4-L16) <br>
 *Ouput:*
-```
+```python
   x  y z
 1 1  8 A
 2 2  9 B
