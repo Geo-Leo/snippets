@@ -1,6 +1,6 @@
 # Snippets for R
 
-<iframe width='100%' height='450' src='https://rdrr.io/snippets/embed/' frameborder='0'></iframe>
+<iframe width='100%' height='450' src='https://rdrr.io/snippets/embed/' frameborder='0' allowfullscreen></iframe>
 <br>
 ## Snippets is great for developing code for a specific task
 **General steps to develop code using Snippets**<br>
